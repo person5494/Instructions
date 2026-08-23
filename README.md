@@ -8,6 +8,6 @@
 
 - [Использование Git](./git/GIT_WORKFLOW.md)
 
-## Review
+## Pull request
 
 - [Как создать Pull Request](./pr/PR.md)
